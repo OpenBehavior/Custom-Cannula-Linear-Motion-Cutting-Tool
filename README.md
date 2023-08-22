@@ -10,5 +10,3 @@ Original posting: https://www.eneuro.org/content/9/5/ENEURO.0099-22.2022
 
 Validated by Kevin Chávez-López on behalf of the OpenBehavior project.
 
-Notice: The original design is not licensed. We would suggest reaching out to the designer for further clarification.
-
